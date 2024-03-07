@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Artist Name</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Artist Name</h1>
+        <p>Short description about you/your art</p>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Latest Artwork</h2>
+            <img src="latest-artwork.jpg" alt="Your Latest Artwork">
+            <h3>Title of Latest Artwork</h3>
+            <p>Short description of your latest artwork</p>
+        </section>
+    </main>
+
+    <footer>
+        <!-- We'll add footer content later -->
+    </footer>
+</body>
+</html>
