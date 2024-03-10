@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>vchung</title>
+    <title>vchung - Gallery</title>
     <link rel="stylesheet" href="styles">
 </head>
 <body>
@@ -20,16 +20,22 @@
     <main>
         <div class="centered-content">
             <section>
-                <h2>Highlight Piece</h2>
-                <img src="latest-artwork.jpg" alt="Your Latest Artwork">
-                <h3>Title of Latest Artwork</h3>
-                <p>Short description of your latest artwork</p>
+                <h2>Gallery</h2>
+                <figure>
+                    <img src="artwork1.jpg" alt="Artwork 1">
+                    <figcaption>Artwork 1 Title</figcaption>
+                </figure>
+                <figure>
+                    <img src="artwork2.jpg" alt="Artwork 2">
+                    <figcaption>Artwork 2 Title</figcaption>
+                </figure>
+                <!-- Add more artwork figures here -->
             </section>
         </div>
     </main>
 
-    <p>&copy; vchung</p>
     <footer>
+        <p>&copy; vchung</p>
     </footer>
 </body>
 </html>

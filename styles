@@ -9,3 +9,45 @@ body {
     color: #333;
     line-height: 1.6;
 }
+
+body, h1, h2, h3, p, nav {
+    text-align: center;
+}
+
+.centered-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+    margin: 5px;
+}
+
+nav a:hover {
+    background-color: #eee;
+}
+
+figure {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+figure img {
+    max-width: 200px;
+    height: auto;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #eee;
+}

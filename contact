@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>vchung</title>
+    <title>vchung02 - contact</title>
     <link rel="stylesheet" href="styles">
 </head>
 <body>
     <header>
         <h1>정유진</h1>
-        <p>Digital Portfolio</p>
+        <p>Short description about you/your art</p>
         <nav>
             <a href="index">Home</a>
             <a href="gallery">Gallery</a>
@@ -20,16 +20,21 @@
     <main>
         <div class="centered-content">
             <section>
-                <h2>Highlight Piece</h2>
-                <img src="latest-artwork.jpg" alt="Your Latest Artwork">
-                <h3>Title of Latest Artwork</h3>
-                <p>Short description of your latest artwork</p>
+                <h2>Contact</h2>
+                <p>Email: vincentchung2002@gmail.com</p>
+                <p>Phone: 240-474-2964</p>
+                <p>Socials</p>
+                <ul>
+                    <li><a href="#">Instagram</a></li>
+                    <li><a href="#">Twitter</a></li>
+                    <li><a href="#">Facebook</a></li>
+                </ul>
             </section>
         </div>
     </main>
 
-    <p>&copy; vchung</p>
     <footer>
+        <p>&copy; vchung02</p>
     </footer>
 </body>
 </html>
