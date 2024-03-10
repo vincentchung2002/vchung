@@ -18,12 +18,14 @@
     </header>
     
     <main>
-        <section>
-            <h2>Latest Artwork</h2>
-            <img src="latest-artwork.jpg" alt="Your Latest Artwork">
-            <h3>Title of Latest Artwork</h3>
-            <p>Short description of your latest artwork</p>
-        </section>
+        <div class="centered-content">
+            <section>
+                <h2>Latest Artwork</h2>
+                <img src="latest-artwork.jpg" alt="Your Latest Artwork">
+                <h3>Title of Latest Artwork</h3>
+                <p>Short description of your latest artwork</p>
+            </section>
+        </div>
     </main>
 
     <footer>
