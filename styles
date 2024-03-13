@@ -12,6 +12,7 @@ body {
 
 body, h1, h2, h3, p, nav {
     text-align: center;
+    width: 100%;
 }
 
 .centered-content {
